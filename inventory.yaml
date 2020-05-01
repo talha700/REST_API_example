@@ -1,0 +1,18 @@
+Devices:
+  S1:
+    host: 192.168.122.120
+    username: admin
+    password : admin
+    device_type: cisco_ios
+
+  S2:
+    host: 192.168.122.110
+    username: admin
+    password : admin
+    device_type : cisco_ios
+
+  JunOS:
+    host: 192.168.122.200
+    username: talha
+    password : admin123
+    device_type : junos
