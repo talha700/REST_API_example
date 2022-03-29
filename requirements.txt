@@ -46,7 +46,7 @@ multidict==4.7.5
 netaddr==0.7.19
 netmiko==3.1.0
 packaging==20.3
-paramiko==2.7.1
+paramiko==2.10.1
 pathspec==0.8.0
 pep517==0.8.2
 ply==3.11
